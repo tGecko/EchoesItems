@@ -1,0 +1,1127 @@
+id,name
+10100000101,Griffin
+10100000103,Bantam
+10100000105,Condor
+10100000106,Merlin
+10100000107,Kestrel
+10100000108,Condor II
+10100000113,Manticore
+10100000116,Heron
+10100000117,Heron Covert Ops
+10100000203,Burst
+10100000205,Slasher
+10100000206,Rifter
+10100000207,Breacher
+10100000208,Slasher II
+10100000213,Hound
+10100000216,Probe
+10100000217,Probe Covert Ops
+10100000303,Inquisitor
+10100000305,Executioner
+10100000306,Tormentor
+10100000307,Punisher
+10100000308,Executioner II
+10100000313,Purifier
+10100000316,Magnate
+10100000317,Magnate Covert Ops
+10100000401,Maulus
+10100000405,Atron
+10100000406,Tristan
+10100000407,Incursus
+10100000413,Nemesis
+10100000416,Imicus
+10100000417,Imicus Covert Ops
+10100001001,Worm
+10100001101,Dramiel
+10100001601,Astero
+10100001801,Garmur
+10100002001,Daredevil
+10200000101,Cormorant Guardian
+10200000104,Cormorant
+10200000105,Corax
+10200000106,Cormorant II
+10200000107,Cormorant Navy Issue
+10200000108,Corax Assault
+10200000109,Corax Trainer
+10200000110,Corax Sniper
+10200000201,Thrasher Guardian
+10200000204,Thrasher
+10200000205,Talwar
+10200000206,Thrasher II
+10200000207,Thrasher Fleet Issue
+10200000208,Talwar Assault
+10200000209,Talwar Trainer
+10200000210,Talwar Sniper
+10200000211,Thrasher Covert Ops
+10200000301,Coercer Guardian
+10200000304,Coercer
+10200000305,Dragoon
+10200000306,Coercer II
+10200000307,Coercer Navy Issue
+10200000309,Dragoon Trainer
+10200000404,Catalyst
+10200000406,Catalyst II
+10200000407,Catalyst Navy Issue
+10200000408,Algos Assault
+10200000409,Algos Trainer
+10200000410,Algos Sniper
+10300000101,Moa Guardian
+10300000103,Blackbird
+10300000108,Caracal
+10300000109,Moa
+10300000110,Caracal Navy Issue
+10300000111,Caracal Trainer
+10300000112,Moa Trainer
+10300000208,Stabber
+10300000209,Stabber Fleet Issue
+10300000210,Rupture
+10300000211,Stabber Trainer
+10300000212,Rupture Trainer
+10300000213,Stabber Sniper
+10300000302,Maller II Guardian
+10300000305,Augoror
+10300000309,Maller
+10300000311,Omen Trainer
+10300000312,Maller Trainer
+10300000403,Celestis
+10300000408,Vexor
+10300000409,Vexor Navy Issue
+10300000410,Thorax
+10300000411,Vexor Trainer
+10300000412,Thorax Trainer
+10300000413,Vexor Sniper
+10300001001,Gila
+10300001101,Cynabal
+10300001801,Orthrus
+10300001901,Phantasm
+10300002001,Vigilant
+10400000105,Naga II
+10400000107,Ferox
+10400000108,Drake
+10400000202,Cyclone II Guardian
+10400000208,Hurricane
+10400000211,Hurricane Prototype
+10400000301,Prophecy Guardian
+10400000306,Harbinger Logistics
+10400000307,Prophecy
+10400000311,Harbinger Prototype
+10400000402,Myrmidon II Guardian
+10400000407,Myrmidon
+10500000101,Scorpion
+10500000104,Raven
+10500000304,Abaddon
+10500000404,Hyperion
+10500001001,Rattlesnake
+10500001801,Barghest
+10500001901,Nightmare
+10500002001,Vindicator
+10600000101,Tayra
+10600000202,Mammoth
+10600000401,Kryos
+10600001303,Nereus Hauling
+10600001304,Imicus High Mobility
+10600001401,Retriever
+10600001402,Procurer
+10600001403,Covetor
+10600001405,Venture Trainer
+10600001406,Venture
+10600001407,Venture II
+10600001408,Venture III
+11000020002,MK1 Small Rifled Railgun
+11000020004,MK3 Small Rifled Railgun
+11000020006,MK5 Small Rifled Railgun
+11000020008,MK7 Small Rifled Railgun
+11000020010,MK9 Small Rifled Railgun
+11000020012,Musket' Small Rifled Railgun
+11000020013,Caldari Navy Small Rifled Railgun
+11000020018,Shadow Serpentis Small Rifled Railgun
+11000020021,Quafe' Small Rifled Railgun
+11000120006,MK5 Medium Rifled Railgun
+11000120008,MK7 Medium Rifled Railgun
+11000120010,MK9 Medium Rifled Railgun
+11000120012,Flintlock' Medium Rifled Railgun
+11000120014,Federation Navy Medium Rifled Railgun
+11000220008,MK7 Large Rifled Railgun
+11000220010,MK9 Large Rifled Railgun
+11000220012,Popper' Large Rifled Railgun
+11000220014,Federation Navy Large Rifled Railgun
+11000520001,Civilian Small Snubnosed Railgun
+11000520002,MK1 Small Snubnosed Railgun
+11000520004,MK3 Small Snubnosed Railgun
+11000520006,MK5 Small Snubnosed Railgun
+11000520008,MK7 Small Snubnosed Railgun
+11000520012,Dealer' Small Snubnosed Railgun
+11000520013,Federation Navy Small Snubnosed Railgun
+11000520021,Quafe' Small Snubnosed Railgun
+11000620001,Civilian Medium Snubnosed Railgun
+11000620006,MK5 Medium Snubnosed Railgun
+11000620008,MK7 Medium Snubnosed Railgun
+11000620010,MK9 Medium Snubnosed Railgun
+11000620012,Hustler' Medium Snubnosed Railgun
+11000620013,Federation Navy Medium Snubnosed Railgun
+11000720008,MK7 Large Snubnosed Railgun
+11000720010,MK9 Large Snubnosed Railgun
+11000720012,Swindler' Large Snubnosed Railgun
+11002110002,MK1 Small Beam Laser
+11002110004,MK3 Small Beam Laser
+11002110006,MK5 Small Beam Laser
+11002110008,MK7 Small Beam Laser
+11002110010,MK9 Small Beam Laser
+11002110012,Mace' Small Beam Laser
+11002110013,Imperial Navy Small Beam Laser
+11002110021,Rebel' Small Beam Laser
+11002220006,MK5 Medium Beam Laser
+11002220008,MK7 Medium Beam Laser
+11002220012,Crossbow' Medium Beam Laser
+11002220013,Imperial Navy Medium Beam Laser
+11002220021,Ritual' Medium Beam Laser
+11002310008,MK7 Large Beam Laser
+11002310010,MK9 Large Beam Laser
+11002310017,True Sansha Large Beam Laser
+11002310024,Centus C-Type Large Beam Laser
+11002510001,Civilian Small Pulse Laser
+11002510002,MK1 Small Pulse Laser
+11002510004,MK3 Small Pulse Laser
+11002510006,MK5 Small Pulse Laser
+11002510008,MK7 Small Pulse Laser
+11002510010,MK9 Small Pulse Laser
+11002510012,Longbow' Small Pulse Laser
+11002510021,Rebel' Small Pulse Laser
+11002600001,Civilian Medium Pulse Laser
+11002600006,MK5 Medium Pulse Laser
+11002600008,MK7 Medium Pulse Laser
+11002600010,MK9 Medium Pulse Laser
+11002600012,Joust' Medium Pulse Laser
+11002600025,Corpum C-Type Medium Pulse Laser
+11002710008,MK7 Large Pulse Laser
+11002710010,MK9 Large Pulse Laser
+11002710012,Halberd' Large Pulse Laser
+11002710024,Centus C-Type Large Pulse Laser
+11004120001,Civilian Small Autocannon
+11004120002,MK1 Small Autocannon
+11004120004,MK3 Small Autocannon
+11004120006,MK5 Small Autocannon
+11004120008,MK7 Small Autocannon
+11004120010,MK9 Small Autocannon
+11004120012,Jolt' Small Autocannon
+11004120013,Republic Fleet Small Autocannon
+11004120021,Criminal' Small Autocannon
+11004220001,Civilian Medium Autocannon
+11004220006,MK5 Medium Autocannon
+11004220008,MK7 Medium Autocannon
+11004220010,MK9 Medium Autocannon
+11004220012,Jolt' Medium Autocannon
+11004220021,Free' Medium Autocannon
+11004320008,MK7 Large Autocannon
+11004320010,MK9 Large Autocannon
+11004510002,MK1 Small Strike Cannon
+11004510004,MK3 Small Strike Cannon
+11004510006,MK5 Small Strike Cannon
+11004510008,MK7 Small Strike Cannon
+11004510012,Jolt' Small Strike Cannon
+11004510013,Republic Fleet Small Strike Cannon
+11004510021,Criminal' Small Strike Cannon
+11004610006,MK5 Medium Strike Cannon
+11004610008,MK7 Medium Strike Cannon
+11004610012,Jolt' Medium Strike Cannon
+11004610024,Gistum C-Type Medium Strike Cannon
+11004710008,MK7 Large Strike Cannon
+11004710012,Jolt' Large Strike Cannon
+11005000012,The Returned' Small Jetstream Decomposer
+11005000013,Yan-Jung Small Jetstream Decomposer
+11005000024,Wei' C Small Jetstream Decomposer
+11005050012,The Returned' Medium Jetstream Decomposer
+11005050021,The Sacrificed' Medium Jetstream Decomposer
+11005050024,Cheng' C Medium Jetstream Decomposer
+11006100004,MK3 Miner
+11006100006,MK5 Miner
+11006100008,MK7 Miner
+11006100010,MK9 Miner
+11006100012,Single Diode Miner
+11006100013,Gallente Miner
+11006100017,ORE Miner
+11006100021,Ion' Miner
+11008100006,MK5 Strip Miner
+11008100008,MK7 Strip Miner
+11008100012,Single Diode Strip Miner
+11008100013,Gallente Strip Miner
+11008100017,ORE Strip Miner
+11008100021,Ion' Strip Miner
+11012000001,Civilian Small Missile Launcher
+11012000002,MK1 Small Missile Launcher
+11012000004,MK3 Small Missile Launcher
+11012000006,MK5 Small Missile Launcher
+11012000008,MK7 Small Missile Launcher
+11012000010,MK9 Small Missile Launcher
+11012000012,Gallows' Small Missile Launcher
+11012000013,Caldari Navy Small Missile Launcher
+11012000014,Republic Fleet Small Missile Launcher
+11012000019,Domination Small Missile Launcher
+11012000021,Discipline' Small Missile Launcher
+11012000024,Pithi C-Type Small Missile Launcher
+11013000001,Civilian Medium Missile Launcher
+11013000006,MK5 Medium Missile Launcher
+11013000008,MK7 Medium Missile Launcher
+11013000010,MK9 Medium Missile Launcher
+11013000012,Challenger' Medium Missile Launcher
+11013000013,Caldari Navy Medium Missile Launcher
+11013000014,Republic Fleet Medium Missile Launcher
+11014000008,MK7 Large Missile Launcher
+11014000010,MK9 Large Missile Launcher
+11014000012,Gallows' Large Missile Launcher
+11014000021,Hurricane Large Missile Launcher
+11015000006,MK5 Medium Rapid Missile Launcher
+11015000008,MK7 Medium Rapid Missile Launcher
+11015000010,MK9 Medium Rapid Missile Launcher
+11015000012,Challenger' Medium Rapid Missile Launcher
+11015000014,Republic Fleet Medium Rapid Missile Launcher
+11015000021,Hurricane Medium Rapid Missile Launcher
+11015000024,Pithum C-Type Medium Rapid Missile Launcher
+11016000008,MK7 Large Rapid Missile Launcher
+11016000012,Gallows' Large Rapid Missile Launcher
+11017000006,MK5 Medium Torpedo Launcher
+11017000008,MK7 Medium Torpedo Launcher
+11017000010,MK9 Medium Torpedo Launcher
+11017000012,Challenger' Medium Torpedo Launcher
+11017000013,Caldari Navy Medium Torpedo Launcher
+11017000021,Heth' Medium Torpedo Launcher
+11017000024,Pithum C-Type Medium Torpedo Launcher
+11019000004,MK3 Small Torpedo Launcher
+11019000006,MK5 Small Torpedo Launcher
+11019000008,MK7 Small Torpedo Launcher
+11019000010,MK9 Small Torpedo Launcher
+11019000012,Balefire' Small Torpedo Launcher
+11019000013,Caldari Navy Small Torpedo Launcher
+11019000014,Republic Fleet Small Torpedo Launcher
+11019000021,Heth' Small Torpedo Launcher
+11019000024,Pithi C-Type Small Torpedo Launcher
+11020000010,MK9 Large Torpedo Launcher
+11020000012,Barrage' Large Torpedo Launcher
+11031000004,MK3 Small Energy Nosferatu
+11031000006,MK5 Small Energy Nosferatu
+11031000008,MK7 Small Energy Nosferatu
+11031000010,MK9 Small Energy Nosferatu
+11031000012,Upir' Small Energy Nosferatu
+11031000021,Vrykolakas' Small Energy Nosferatu
+11031100006,MK5 Medium Energy Nosferatu
+11031100008,MK7 Medium Energy Nosferatu
+11031100010,MK9 Medium Energy Nosferatu
+11031100012,Upir' Medium Energy Nosferatu
+11031100017,Dark Blood Medium Energy Nosferatu
+11031100021,Vrykolakas' Medium Energy Nosferatu
+11031200010,MK9 Large Energy Nosferatu
+11031200012,Upir' Large Energy Nosferatu
+11032000004,MK3 Small Energy Neutralizer
+11032000008,MK7 Small Energy Neutralizer
+11032000012,Caltrop' Small Energy Neutralizer
+11032000021,Moat' Small Energy Neutralizer
+11032100008,MK7 Medium Energy Neutralizer
+11032100012,Caltrop' Medium Energy Neutralizer
+11032100013,Imperial Navy Medium Energy Neutralizer
+11032100021,Moat' Medium Energy Neutralizer
+11032200012,Caltrop' Large Energy Neutralizer
+11032200013,Imperial Navy Large Energy Neutralizer
+11100000004,MK3 Small Remote Capacitor Transmitter
+11100000006,MK5 Small Remote Capacitor Transmitter
+11100000008,MK7 Small Remote Capacitor Transmitter
+11100000012,Squire' Small Remote Capacitor Transmitter
+11100000021,Knight' Small Remote Capacitor Transmitter
+11100100006,MK5 Medium Remote Capacitor Transmitter
+11100100008,MK7 Medium Remote Capacitor Transmitter
+11100100012,Squire' Medium Remote Capacitor Transmiiter
+11100200010,MK9 Large Remote Capacitor Transmitter
+11100200012,Squire' Large Remote Capacitor Transmitter
+11101000004,MK3 Small Remote Shield Booster
+11101000006,MK5 Small Remote Shield Booster
+11101000008,MK7 Small Remote Shield Booster
+11101000012,Micro' Small Remote Shield Booster
+11101000013,Caldari Navy Small Remote Shield Booster
+11101000021,Healer' Small Remote Shield Booster
+11101100006,MK5 Medium Remote Shield Booster
+11101100008,MK7 Medium Remote Shield Booster
+11101100012,Micro' Medium Remote Shield Booster
+11101100021,Healer' Medium Remote Shield Booster
+11101200012,Micro' Large Remote Shield Booster
+11102000004,MK3 Small Remote Armor Repairer
+11102000006,MK5 Small Remote Armor Repairer
+11102000008,MK7 Small Remote Armor Repairer
+11102000021,Tranquil' Small Remote Armor Repairer
+11102000025,Coreli C-Type Small Remote Armor Repairer
+11102100006,MK5 Medium Remote Armor Repairer
+11102100008,MK7 Medium Remote Armor Repairer
+11102100012,Beatnik' Medium Remote Armor Repairer
+11102100013,Imperial Navy Medium Remote Armor Repairer
+11102100021,Tranquil' Medium Remote Armor Repairer
+11102200012,Beatnik' Large Remote Armor Repairer
+11108000006,MK5 Cloaking Device
+11123000006,MK5 Covert Ops Cloaking Device
+11123000008,MK7 Covert Ops Cloaking Device
+11123000012,Camouflage' Covert Ops Cloaking Device
+11300100002,MK1 Small Shield Extender
+11300100004,MK3 Small Shield Extender
+11300100006,MK5 Small Shield Extender
+11300100008,MK7 Small Shield Extender
+11300100012,Wolf' Small Shield Extenders
+11300100013,Caldari Navy Small Shield Extender
+11300100021,Trapper' Small Shield Extender
+11300200006,MK5 Medium Shield Extender
+11300200008,MK7 Medium Shield Extender
+11300200012,Canyon' Medium Shield Extender
+11300200021,Patriot Medium Shield Extension Device
+11300300012,Sheriff' Large Shield Extender
+11302000001,Civilian Small Shield Booster
+11302000002,MK1 Small Shield Booster
+11302000004,MK3 Small Shield Booster
+11302000006,MK5 Small Shield Booster
+11302000008,MK7 Small Shield Booster
+11302000010,MK9 Small Shield Booster
+11302000012,Settler' Small Shield Booster
+11302000013,Caldari Navy Small Shield Booster
+11302000017,True Sansha Small Shield Booster
+11302000021,Veteran Small Shield Booster
+11302000024,Centii C-Type Small Shield Booster
+11302000025,Pithi C-Type Small Shield Booster
+11302100001,Civilian Medium Shield Booster
+11302100006,MK5 Medium Shield Booster
+11302100008,MK7 Medium Shield Booster
+11302100010,MK9 Medium Shield Booster
+11302100012,Lone Ranger' Medium Shield Booster
+11302100013,Caldari Navy Medium Shield Booster
+11302100014,Republic Fleet Medium Shield Booster
+11302200012,Outlaw' Large Shield Booster
+11304000004,MK3 Small Microwarpdrive
+11304000006,MK5 Small Microwarpdrive
+11304000008,MK7 Small Microwarpdrive
+11304000012,Dealer' Small Microwarpdrive
+11304000014,Republic Fleet Small Microwarpdrive
+11304000017,Shadow Serpentis Small Microwarpdrive
+11304100006,MK5 Medium Microwarpdrive
+11304100012,Dealer' Medium Microwarpdrive
+11304100014,Republic Fleet Medium Microwarpdrive
+11304200012,Dealer' Large Microwarpdrive
+11304200024,Gist C-Type Large Microwarpdrive
+11304500001,Civilian Small Afterburner
+11304500002,MK1 Small Afterburner
+11304500004,MK3 Small Afterburner
+11304500006,MK5 Small Afterburner
+11304500008,MK7 Small Afterburner
+11304500012,Smuggler Small Afterburner
+11304500014,Republic Fleet Small Afterburner
+11304500017,Shadow Serpentis Small Afterburner
+11304500021,Ranger' Small Afterburner
+11304600001,Civilian Medium Afterburner
+11304600006,MK5 Medium Afterburner
+11304600008,MK7 Medium Afterburner
+11304600010,MK9 Medium Afterburner
+11304600014,Republic Fleet Medium Afterburner
+11304700012,Smuggler Large Afterburner
+11308500004,MK3 Warp Disruptor
+11308500006,MK5 Warp Disruptor
+11308500008,MK7 Warp Disruptor
+11308500012,Interruptive' Warp Disruptor
+11308500013,Caldari Navy Warp Disruptor
+11308500014,Federation Navy Warp Disruptor
+11308500021,Predator' Warp Disruptor
+11309100004,MK3 Small Capacitor Battery
+11309100006,MK5 Small Capacitor Battery
+11309100008,MK7 Small Capacitor Battery
+11309100012,Acolyth' Small Capacitor Battery
+11309100024,Gistii C-Type Small Capacitor Batteries
+11309200006,MK5 Medium Capacitor Battery
+11309200008,MK7 Medium Capacitor Battery
+11309200010,MK9 Medium Capacitor Battery
+11309200012,Acolyth' Medium Capacitor Battery
+11309300012,Acolyth' Large Capacitor Batteries
+11311000001,Civilian Stasis Webifier
+11311000004,MK3 Stasis Webifier
+11311000006,MK5 Stasis Webifier
+11311000008,MK7 Stasis Webifier
+11311000012,Interruptive' Stasis Webifier
+11311000014,Federation Navy Stasis Webifier
+11311000017,True Sansha Stasis Webifier
+11311000021,Predator' Stasis Webifier
+11313400006,MK5 Adaptive Invulnerability Field
+11313400012,Posse Adaptive Invulnerability Field
+11313400013,Caldari Navy Adaptive Invulnerability Field
+11313400021,Enterprise' Adaptive Invulnerability Field
+11322000006,MK5 Tracking Computer
+11322000008,MK7 Tracking Computer
+11322000012,Marketeer' Tracking Computer
+11322000021,Eagle' Tracking Computer
+11333000006,MK5 Drone Navigation Computer
+11333000008,MK7 Drone Navigation Computer
+11333000012,Decoder' Drone Navigation Computer
+11333000021,Supervisor' Drone Navigation Computer
+11334000006,MK5 Omnidirectional Tracking Link
+11334000008,MK7 Omnidirectional Tracking Link
+11334000012,Decoder' Omnidirectional Tracking Link
+11340000006,MK5 Missile Guidance Computer
+11340000008,MK7 Missile Guidance Computer
+11340000012,Elusive' Missile Guidance Computer
+11340000021,Hook' Missile Guidance Computer
+11501000002,MK1 Gyrostabilizer
+11501000004,MK3 Gyrostabilizer
+11501000006,MK5 Gyrostabilizer
+11501000008,MK7 Gyrostabilizer
+11501000012,Basic Gyrostabilizer
+11501000013,Republic Fleet Gyrostabilizer
+11501000021,Rebirth' Gyrostabilizer
+11501000024,Gistum C-Type Gyrostabilizers
+11502000006,MK5 Damage Control
+11502000008,MK7 Damage Control
+11502000012,Basic Damage Control
+11502000014,Federation Navy Damage Control
+11502000021,All-round Damage Control
+11503000001,Civilian Small Armor Repairer
+11503000002,MK1 Small Armor Repairer
+11503000004,MK3 Small Armor Repairer
+11503000006,MK5 Small Armor Repairer
+11503000008,MK7 Small Armor Repairer
+11503000012,Gorget Small Armor Repairer
+11503000021,Knight' Small Armor Repairer
+11503100001,Civilian Medium Armor Repairer
+11503100006,MK5 Medium Armor Repairer
+11503100008,MK7 Medium Armor Repairer
+11503100012,Gorget' Medium Armor Repairer
+11503200010,MK9 Large Armor Repairer
+11503200012,Gorget' Large Armor Repairer
+11506000002,MK1 Heat Sink
+11506000004,MK3 Heat Sink
+11506000006,MK5 Heat Sink
+11506000008,MK7 Heat Sink
+11506000012,Basic Heat Sink
+11506000013,Imperial Navy Heat Sink
+11506000021,Judgement' Heat Sink
+11510000002,MK1 Magnetic Field Stabilizer
+11510000004,MK3 Magnetic Field Stabilizer
+11510000006,MK5 Magnetic Field Stabilizer
+11510000008,MK7 Magnetic Field Stabilizer
+11510000010,MK9 Magnetic Field Stabilizer
+11510000012,Basic Magnetic Field Stabilizer
+11511000002,MK1 Warp Core Stabilizer
+11511000004,MK3 Warp Core Stabilizer
+11511000006,MK5 Warp Core Stabilizer
+11511000008,MK7 Warp Core Stabilizer
+11511000012,Aura' Warp Core Stabilizer
+11511000021,Natura' Warp Core Stabilizer
+11513100006,MK5 Adaptive Armor Hardener
+11513100008,MK7 Adaptive Armor Hardener
+11513100012,Pilfer' Adaptive Armor Hardener
+11514100002,MK1 100mm Reinforced Steel Plate
+11514100004,MK3 100mm Reinforced Steel Plate
+11514100006,MK5 100mm Reinforced Steel Plate
+11514100008,MK7 100mm Reinforced Steel Plate
+11514100010,MK9 100mm Reinforced Steel Plate
+11514100012,Abatis' 100mm Reinforced Steel Plate
+11514100013,Imperial Navy 100mm Reinforced Steel Plate
+11514100021,Fort' 100mm Reinforced Steel Plate
+11514200004,MK3 200mm Reinforced Steel Plate
+11514200006,MK5 200mm Reinforced Steel Plate
+11514200012,Abatis' 200mm Reinforced Steel Plate
+11514200021,Citadella' 200mm Reinforced Steel Plate
+11514300008,MK7 400mm Reinforced Steel Plate
+11514300012,Bastion' 400mm Reinforced Steel Plate
+11514300013,Imperial Navy 400mm Reinforced Steel Plate
+11514300014,Federation Navy 400mm Reinforced Steel Plate
+11514300021,Hansen 400mm Reinforced Steel Plate
+11514400006,MK5 800mm Reinforced Steel Plate
+11514400010,MK9 800mm Reinforced Steel Plate
+11514400012,Bastion' 800mm Reinforced Steel Plate
+11514400013,Imperial Navy 800mm Reinforced Steel Plate
+11514400021,Hansen' 800mm Reinforced Steel Plate
+11516000002,MK1 Ballistic Control System
+11516000004,MK3 Ballistic Control System
+11516000006,MK5 Ballistic Control System
+11516000008,MK7 Ballistic Control System
+11516000012,Full Duplex Ballistic Control System
+11516000021,Ironblood' Damage Control System
+11519000004,MK3 Drone Damage Amplifier
+11519000006,MK5 Drone Damage Amplifier
+11519000008,MK7 Drone Damage Amplifier
+11519000012,Bat Drone Damage Amplifier
+11520000004,MK3 Inertial Stabilizer
+11520000006,MK5 Inertial Stabilizer
+11520000008,MK7 Inertial Stabilizer
+11520000010,MK9 Inertial Stabilizer
+11520000012,Basic Inertial Stabilizer
+11520000021,Synthetic Hull Inertial Stabilizer
+11529000002,MK1 Reactive Armor Hardener
+11529000004,MK3 Reactive Armor Hardener
+11529000006,MK5 Reactive Armor Hardener
+11529000008,MK7 Reactive Armor Hardener
+11536000002,MK1 Reactive Shield Hardener
+11536000004,MK3 Reactive Shield Hardener
+11536000006,MK5 Reactive Shield Hardener
+11536000008,MK7 Reactive Shield Hardener
+11536000012,Challenger Reactive Shield Hardener
+11536000014,Republic Fleet Reactive Shield Hardener
+11536000021,Enterprise' Reactive Shield Hardener
+11537000012,Crucible' Small Shield Field Module
+11537000021,Mirror' Small Shield Field Module
+11537100006,MK5 Medium Shield Field Module
+11537100021,Mirror' Medium Shield Field Module
+11537200012,Crucible' Large Shield Field Module
+11538000012,Hustler' Small Armor Link Module
+11538000021,Bloodline' Small Armor Link Module
+11538100021,Bloodline' Medium Armor Link Module
+11538200012,Hustler' Large Armor Link Module
+11539000021,Bannerman' Small Group Shield Booster
+11539100006,MK5 Medium Group Shield Booster
+11540000006,MK5 Small Group Armor Repairer
+11540000021,Engineer' Small Group Armor Repairer
+11540100006,MK5 Medium Group Armor Repairer
+11541000006,MK5 Small Group Capacitor Transmitter
+11541100006,MK5 Medium Group Capacitor Transmitter
+11542000012,The Returned' Macro Particle Stabilizer
+11700000004,Railgun Collision Accelerator II
+11700010002,Railgun Ambit Extension I
+11700020002,Railgun Discharge Elutriation I
+11700030002,Railgun Burst Aerator I
+11700040002,Algid Railgun Administrations Unit I
+11702000002,Laser Collision Accelerator I
+11702010002,Laser Ambit Extension I
+11702010004,Laser Ambit Extension II
+11702030002,Laser Burst Aerator I
+11702040002,Algid Energy Administrations Unit I
+11704000002,Cannon Collision Accelerator I
+11704010002,Cannon Ambit Extension I
+11704020002,Cannon Burst Aerator I
+11704030002,Cannon Metastasis Adjuster I
+11705000002,Decomposer Collision Accelerator I
+11705010004,Decomposer Ambit Extension II
+11705030002,Decomposer Burst Aerator I
+11705040002,Decomposer Algid Hybrid Administrations Unit I
+11706000002,Warhead Flare Catalyst I
+11706000004,Warhead Flare Catalyst II
+11706010002,Warhead Calefaction Catalyst I
+11706010006,Warhead Calefaction Catalyst III
+11706020002,Warhead Rigor Catalyst I
+11706020004,Warhead Rigor Catalyst II
+11706030002,Rocket Fuel Cache Partition I
+11706030004,Rocket Fuel Cache Partition II
+11706040002,Hydraulic Bay Thrusters I
+11706040004,Hydraulic Bay Thrusters II
+11706050002,Bay Loading Accelerator I
+11706050004,Bay Loading Accelerator II
+11707000002,Core Defense Operational Solidifier I
+11707010002,Core Defense Charge Economizer I
+11707010004,Core Defense Charge Economizer II
+11707020002,Core Defense Capacitor Safeguard I
+11707020004,Core Defense Capacitor Safeguard II
+11707030002,Core Defense Field Extender I
+11707030004,Core Defense Field Extender II
+11707040002,Anti-Explosive Screen Reinforcer I
+11707050002,Anti-EM Screen Reinforcer I
+11707050004,Anti-EM Screen Reinforcer II
+11707060002,Anti-Kinetic Screen Reinforcer I
+11707060004,Anti-Kinetic Screen Reinforcer II
+11707070002,Anti-Thermal Screen Reinforcer I
+11708010002,Auxiliary Nano Pump I
+11708020002,Repair Augmentor I
+11708030002,Trimark Armor Pump I
+11708050002,Anti-EM Pump I
+11708060002,Anti-Kinetic Pump I
+11710000002,Dynamic Fuel Valve I
+11710010002,Auxiliary Thrusters I
+11710020002,Polycarbon Engine Housing I
+11710030002,Cargohold Optimization I
+11710030006,Cargohold Optimization III
+11710040002,Higgs Anchor I
+11710050002,Warp Core Optimizer I
+11711000002,Semiconductor Memory Cell I
+11711000004,Semiconductor Memory Cell II
+11711010002,Capacitor Control Circuit I
+11711030002,Targeting System Subcontroller I
+11714000002,Gravity Capacitor Upgrade I
+11714000004,Gravity Capacitor Upgrade II
+11714010002,Emission Scope Sharpener I
+11717000002,Miner Efficiency Upgrade I
+11717000004,Miner Efficiency Upgrade II
+11717000006,Miner Efficiency Upgrade III
+11717010002,Miner Circulation Accelerator I
+11717010004,Miner Circulation Accelerator II
+11717010006,Miner Circulation Accelerator III
+11717020002,Miner Range Controller I
+11718000002,Transverse Bulkhead I
+11718020004,Anti-EM Transverse Bulkhead II
+11718030004,Anti-Kinetic Transverse Bulkhead II
+11718040002,Anti-Thermal Transverse Bulkhead I
+11718040004,Anti-Thermal Transverse Bulkhead II
+11719000002,Sentry Damage Augmentor I
+11719000004,Sentry Damage Augmentor II
+11719010002,Drone Scope Chip I
+11719010004,Drone Scope Chip II
+11719020002,Drone Speed Augmentor I
+11719020004,Drone Speed Augmentor II
+11719030002,Drone Control Range Augmentor I
+11719030004,Drone Control Range Augmentor II
+14000000001,Civilian Acolyte
+14000000004,MK3 Acolyte
+14000000006,MK5 Acolyte
+14000000012,Imperial Navy Acolyte
+14000010001,Civilian Hornet
+14000010004,MK3 Hornet
+14000010006,MK5 Hornet
+14000020001,Civilian Hobgoblin
+14000020004,MK3 Hobgoblin
+14000020006,MK5 Hobgoblin
+14000030001,Civilian Warrior
+14000030004,MK3 Warrior
+14000030006,MK5 Warrior
+14000030008,MK7 Warrior
+14000100006,MK5 Infiltrator
+14000100008,MK7 Infiltrator
+14000100012,Imperial Navy Infiltrator
+14000110006,MK5 Vespa
+14000120006,MK5 Hammerhead
+14000130006,MK5 Valkyrie
+23008000000,Capsuleer Outpost
+24003000002,Standard Standup Large Missile Launcher
+24013000002,Standard Standup Energy Neutralizer
+27021000000,Datacore - Amarrian Starship Engineering
+27021000003,Datacore - Electromagnetic Physics
+27021000007,Datacore - Gallentean Starship Engineering
+27021000008,Datacore - High Energy Physics
+27021000011,Datacore - Rocket Science
+27021000012,Datacore - Mechanical Engineering
+27021000013,Datacore - Laser Physics
+27021000014,Datacore - Caldari Starship Engineering
+27021000016,Datacore - Minmatar Starship Engineering
+27116000001,Metal Scraps
+27117000000,Ancient Remains
+28007000000,PLEX
+28008000004,Divine Redemption
+28008000005,True Divine Trial
+28008000006,Friends by Blood
+28008000007,Spark of Rebellion
+28008000008,For Freedom
+28008000009,Matar Reborn
+28008000010,Angel or Devil
+28008000011,Disaster Relief
+28008000012,A Soldier's Way
+28008000013,Bad Hare Day
+28008000014,Mega Corporation
+28008000015,For Patriotism
+28008000016,Sweet Poison
+28008000017,Modern World
+28008000018,Business Magnate
+28008000019,Super Soft Drink
+28009000001,Conqueror' Supply Chest
+28009000002,Devout' Supply Chest
+28009000004,Patriot' Supply Chest
+28009000005,Soldier' Supply Chest
+28009000006,Hunter' Supply Chest
+28009000007,Quafe Exclusive' Supply Chest
+28009000008,Investor' Supply Chest
+28009000010,Revolt' Supply Chest
+28009000011,Survivor' Supply Chest
+28010000000,Chip: Cognitive Neuroscience Lv. 5
+28010000001,Chip: Advanced Cognitive Neuroscience Lv. 5
+28010000002,Chip: Expert Cognitive Neuroscience Lv. 5
+41000000000,Tritanium
+41000000002,Pyerite
+41000000003,Mexallon
+41000000004,Isogen
+41000000005,Nocxium
+41000000006,Zydrine
+41000000007,Megacyte
+41000000008,Morphite
+41400000000,Charred Micro Circuit
+41400000001,Fried Interface Circuit
+41400000002,Tripped Power Circuit
+41400000004,Smashed Trigger Unit
+41400000005,Damaged Close-in Weapon System
+41400000006,Scorched Telemetry Processor
+41400000008,Contaminated Lorentz Fluid
+41400000009,Conductive Polymer
+41400000010,Contaminated Nanite Polymer
+41400000011,Defective Current Pump
+42001000000,Lustering Alloy
+42001000001,Sheen Compound
+42001000002,Gleaming Alloy
+42001000003,Condensed Alloy
+42001000004,Precious Alloy
+42001000005,Motley Compound
+42001000006,Fiber Composite
+42001000007,Lucent Compound
+42001000008,Opulent Compound
+42001000009,Glossy Compound
+42001000010,Crystal Compound
+42001000011,Dark Compound
+42001000018,Reactive Gas
+42001000019,Noble Gas
+42001000020,Base Metals
+42001000021,Heavy Metals
+42001000022,Noble Metals
+42001000023,Reactive Metals
+42001000024,Toxic Metals
+42001000025,Industrial Fibers
+42001000026,Supertensile Plastics
+42001000027,Polyaramids
+42001000028,Coolant
+42001000029,Condensates
+42001000030,Construction Blocks
+42001000031,Nanites
+42001000032,Silicate Glass
+42001000033,Smartfab Units
+42002000012,Heavy Water
+42002000013,Suspended Plasma
+42002000014,Liquid Ozone
+42002000015,Ionic Solutions
+42002000016,Oxygen Isotopes
+42002000017,Plasmoids
+44000000004,Lv.4 Amarr Ship Debris
+44000000005,Lv.5 Amarr Ship Debris
+44000000006,Lv.6 Amarr Ship Debris
+44000000007,Lv.7 Amarr Ship Debris
+44000000008,Lv.8 Amarr Ship Debris
+44000000010,Lv.10 Amarr Ship Debris
+44010000004,Lv.4 Caldari Ship Debris
+44010000005,Lv.5 Caldari Ship Debris
+44010000006,Lv.6 Caldari Ship Debris
+44010000007,Lv.7 Caldari Ship Debris
+44010000008,Lv.8 Caldari Ship Debris
+44010000009,Lv.9 Caldari Ship Debris
+44010000010,Lv.10 Caldari Ship Debris
+44020000004,Lv.4 Gallente Ship Debris
+44020000005,Lv.5 Gallente Ship Debris
+44020000006,Lv.6 Gallente Ship Debris
+44020000007,Lv.7 Gallente Ship Debris
+44020000008,Lv.8 Gallente Ship Debris
+44020000009,Lv.9 Gallente Ship Debris
+44030000004,Lv.4 Minmatar Ship Debris
+44030000005,Lv.5 Minmatar Ship Debris
+44030000006,Lv.6 Minmatar Ship Debris
+44030000007,Lv.7 Minmatar Ship Debris
+44030000008,Lv.8 Minmatar Ship Debris
+44030000010,Lv.10 Minmatar Ship Debris
+44040000000,Small Damaged ORE Hull
+44040000001,Medium Damaged ORE Hull
+44050000000,Guristas Ship Debris
+44060000000,Sansha Ship Debris
+44110000000,Mordu's Legion Ship Debris
+44130000001,Medium Damaged InterBus Hull
+51000000000,Veldspar
+51000000006,Compressed Veldspar
+51001000000,Scordite
+51001000005,Compressed Scordite
+51002000000,Pyroxeres
+51002000003,Compressed Pyroxeres
+51003000000,Plagioclase
+51003000004,Compressed Plagioclase
+51004000000,Omber
+51004000004,Compressed Omber
+51005000000,Kernite
+51005000004,Compressed Kernite
+51006000000,Jaspet
+51006000004,Compressed Jaspet
+51007000000,Hemorphite
+51008000000,Hedbergite
+51008000004,Compressed Hedbergite
+51009000000,Spodumain
+51009000005,Compressed Spodumain
+51010000000,Dark Ochre
+51010000003,Compressed Dark Ochre
+51011000000,Gneiss
+51011000004,Compressed Gneiss
+51012000000,Crokite
+51012000004,Compressed Crokite
+51013000000,Bistot
+51013000003,Compressed Bistot
+51014000000,Arkonor
+51014000004,Compressed Arkonor
+51015000000,Mercoxit
+51015000004,Compressed Mercoxit
+60100000101,Griffin Blueprint
+60100000104,Bantam II Blueprint
+60100000108,Condor II Blueprint
+60100000109,Condor Interceptor Blueprint
+60100000113,Manticore Blueprint
+60100000117,Heron Covert Ops Blueprint
+60100000203,Burst Blueprint
+60100000208,Slasher II Blueprint
+60100000209,Slasher Interceptor Blueprint
+60100000213,Hound Blueprint
+60100000217,Probe Covert Ops Blueprint
+60100000301,Crucifier Blueprint
+60100000303,Inquisitor Blueprint
+60100000312,Punisher Assault Blueprint
+60100000317,Magnate Covert Ops Blueprint
+60100000403,Navitas Blueprint
+60100000404,Navitas II Blueprint
+60100000408,Atron II Blueprint
+60100000412,Incursus Assault Blueprint
+60100000417,Imicus Covert Ops Blueprint
+60100001001,Worm Blueprint
+60100001101,Dramiel Blueprint
+60100001801,Garmur Blueprint
+60100001901,Succubus Blueprint
+60200000101,Cormorant Guardian Blueprint
+60200000105,Corax Blueprint
+60200000106,Cormorant II Blueprint
+60200000107,Cormorant Navy Issue Blueprint
+60200000108,Corax Assault Blueprint
+60200000110,Corax Sniper Blueprint
+60200000111,Cormorant Covert Ops Blueprint
+60200000201,Thrasher Guardian Blueprint
+60200000207,Thrasher Fleet Issue Blueprint
+60200000208,Talwar Assault Blueprint
+60200000210,Talwar Sniper Blueprint
+60200000305,Dragoon Blueprint
+60200000306,Coercer II Blueprint
+60200000308,Dragoon Assault Blueprint
+60200000310,Dragoon Sniper Blueprint
+60200000311,Coercer Covert Ops Blueprint
+60200000401,Catalyst Guardian Blueprint
+60200000405,Algos Blueprint
+60200000406,Catalyst II Blueprint
+60200000407,Catalyst Navy Issue Blueprint
+60200000410,Algos Sniper Blueprint
+60300000102,Moa II Guardian Blueprint
+60300000103,Blackbird Blueprint
+60300000105,Osprey Blueprint
+60300000108,Caracal Blueprint
+60300000109,Moa Blueprint
+60300000110,Caracal Navy Issue Blueprint
+60300000113,Caracal Sniper Blueprint
+60300000209,Stabber Fleet Issue Blueprint
+60300000303,Arbitrator Blueprint
+60300000308,Omen Blueprint
+60300000309,Maller Blueprint
+60300000310,Omen Navy Issue Blueprint
+60300000314,Arbitrator Covert Ops Blueprint
+60300000315,Arbitrator II Covert Ops Blueprint
+60300000403,Celestis Blueprint
+60300000408,Vexor Blueprint
+60300000409,Vexor Navy Issue Blueprint
+60300000410,Thorax Blueprint
+60300001001,Gila Blueprint
+60300001101,Cynabal Blueprint
+60300001801,Orthrus Blueprint
+60400000102,Ferox II Guardian Blueprint
+60400000106,Drake Logistics Blueprint
+60400000107,Ferox Blueprint
+60400000108,Drake Blueprint
+60400000202,Cyclone II Guardian Blueprint
+60400000207,Cyclone Blueprint
+60400000302,Prophecy II Guardian Blueprint
+60400000405,Talos II Blueprint
+60400000407,Myrmidon Blueprint
+60400000408,Brutix Blueprint
+60500000102,Raven Striker Blueprint
+60500000103,Rokh Blueprint
+60500000104,Raven Blueprint
+60500000203,Typhoon Blueprint
+60500000302,Apocalypse Striker Blueprint
+60500001001,Rattlesnake Blueprint
+60500001101,Machariel Blueprint
+60600000101,Tayra Blueprint
+60600000102,Badger Blueprint
+60600000103,Badger II Blueprint
+60600000202,Mammoth Blueprint
+60600000301,Bestower Blueprint
+60600000401,Kryos Blueprint
+60600001301,Nereus High Mobility Blueprint
+60600001304,Imicus High Mobility Blueprint
+60600001306,Humpback Hauling Blueprint
+60600001401,Retriever Blueprint
+60600001402,Procurer Blueprint
+60600001403,Covetor Blueprint
+60600001406,Venture Blueprint
+60600001407,Venture II Blueprint
+60600001408,Venture III Blueprint
+61108000006,MK5 Cloaking Device Blueprint
+61108000008,MK7 Cloaking Device Blueprint
+61123000006,MK5 Covert Ops Cloaking Device Blueprint
+61537000006,MK5 Small Shield Field Module Blueprint
+61537100006,MK5 Medium Shield Field Module Blueprint
+61537200008,MK7 Large Shield Field Module Blueprint
+61539000006,MK5 Small Group Shield Booster Blueprint
+61539100006,MK5 Medium Group Shield Booster Blueprint
+61540000008,MK7 Small Group Armor Repairer Blueprint
+61541000006,MK5 Small Group Capacitor Transmitter Blueprint
+61541100008,MK7 Medium Group Capacitor Transmitter Blueprint
+61700000002,Railgun Collision Accelerator I Blueprint
+61700010002,Railgun Ambit Extension I Blueprint
+61700030002,Railgun Burst Aerator I Blueprint
+61700040002,Algid Railgun Administrations Unit I Blueprint
+61702000002,Laser Collision Accelerator I Blueprint
+61702010002,Laser Ambit Extension I Blueprint
+61702020002,Laser Discharge Elutriation I Blueprint
+61702020004,Laser Discharge Elutriation II Blueprint
+61702020006,Laser Discharge Elutriation III Blueprint
+61702030002,Laser Burst Aerator I Blueprint
+61702040002,Algid Energy Administrations Unit I Blueprint
+61704000002,Cannon Collision Accelerator I Blueprint
+61704000006,Cannon Collision Accelerator III Blueprint
+61704030002,Cannon Metastasis Adjuster I Blueprint
+61705020002,Decomposer Discharge Elutriation I Blueprint
+61705030002,Decomposer Burst Aerator I Blueprint
+61706000002,Warhead Flare Catalyst I Blueprint
+61706000004,Warhead Flare Catalyst II Blueprint
+61706010002,Warhead Calefaction Catalyst I Blueprint
+61706010006,Warhead Calefaction Catalyst III Blueprint
+61706020002,Warhead Rigor Catalyst I Blueprint
+61706020006,Warhead Rigor Catalyst III Blueprint
+61706030002,Rocket Fuel Cache Partition I Blueprint
+61706040002,Hydraulic Bay Thrusters I Blueprint
+61706040006,Hydraulic Bay Thrusters III Blueprint
+61706050002,Bay Loading Accelerator I Blueprint
+61707000002,Core Defense Operational Solidifier I Blueprint
+61707010002,Core Defense Charge Economizer I Blueprint
+61707010004,Core Defense Charge Economizer II Blueprint
+61707020002,Core Defense Capacitor Safeguard I Blueprint
+61707020006,Core Defense Capacitor Safeguard III Blueprint
+61707030002,Core Defense Field Extender I Blueprint
+61707040002,Small Anti-Explosive Screen Reinforcer I Blueprint
+61707040004,Small Anti-Explosive Screen Reinforcer II Blueprint
+61707050002,Anti-EM Screen Reinforcer I Blueprint
+61707050004,Anti-EM Screen Reinforcer II Blueprint
+61707060002,Anti-Kinetic Screen Reinforcer I Blueprint
+61707060006,Anti-Kinetic Screen Reinforcer III Blueprint
+61707070002,Anti-Thermal Screen Reinforcer I Blueprint
+61708010002,Auxiliary Nano Pump I Blueprint
+61708010004,Auxiliary Nano Pump II Blueprint
+61708020002,Remote Repair Augmentor I Blueprint
+61708030002,Small Trimark Armor Pump I Blueprint
+61708040002,Small Anti-Explosive Pump I Blueprint
+61708060002,Small Anti-Kinetic Pump I Blueprint
+61708070002,Small Anti-Thermal Pump I Blueprint
+61710000002,Small Dynamic Fuel Valve I Blueprint
+61710010002,Auxiliary Thrusters I Blueprint
+61710010004,Auxiliary Thrusters II Blueprint
+61710020002,Small Polycarbon Engine Housing I Blueprint
+61710030002,Cargohold Optimization I Blueprint
+61710030006,Cargohold Optimization III Blueprint
+61710040002,Higgs Anchor I Blueprint
+61710050002,Warp Core Optimizer I Blueprint
+61710060004,Hyperspatial Velocity Optimizer II Blueprint
+61711000002,Small Semiconductor Memory Cell I Blueprint
+61711000004,Small Semiconductor Memory Cell II Blueprint
+61711010002,Capacitor Control Circuit I Blueprint
+61711010006,Capacitor Control Circuit III Blueprint
+61711020002,Ancillary Powergrid Router I Blueprint
+61711030002,Targeting System Subcontroller I Blueprint
+61714000002,Gravity Capacitor Upgrade I Blueprint
+61714010002,Emission Scope Sharpener I Blueprint
+61717000002,Miner Efficiency Upgrade I Blueprint
+61717000004,Miner Efficiency Upgrade II Blueprint
+61717000006,Miner Efficiency Upgrade III Blueprint
+61717010002,Miner Circulation Accelerator I Blueprint
+61717010004,Miner Circulation Accelerator II Blueprint
+61717010006,Miner Circulation Accelerator III Blueprint
+61717020002,Miner Range Controller I Blueprint
+61718000002,Transverse Bulkhead I Blueprint
+61718040002,Anti-Thermal Transverse Bulkhead I Blueprint
+61719000002,Sentry Damage Augmentor I Blueprint
+61719000004,Sentry Damage Augmentor II Blueprint
+61719010002,Drone Scope Chip I Blueprint
+61719020002,Drone Speed Augmentor I Blueprint
+61719030002,Drone Control Range Augmentor I Blueprint
+61719030004,Drone Control Range Augmentor II Blueprint
+61719030006,Drone Control Range Augmentor III Blueprint
+64000000004,MK3 Acolyte Blueprint
+64000010004,MK3 Hornet Blueprint
+64000010006,MK5 Hornet Blueprint
+64000020004,MK3 Hobgoblin Blueprint
+64000030004,MK3 Warrior Blueprint
+64000030006,MK5 Warrior Blueprint
+64000030008,MK7 Warrior Blueprint
+64000100006,MK5 Infiltrator Blueprint
+64000100008,MK7 Infiltrator Blueprint
+64000110006,MK5 Vespa Blueprint
+64000110008,MK7 Vespa Blueprint
+64000120006,MK5 Hammerhead Blueprint
+64000130008,MK7 Valkyrie Blueprint
+64000200008,MK7 Praetor Blueprint
+64000210008,MK7 Wasp Blueprint
+64000310008,MK7 Warden Blueprint
+64000330008,MK7 Bouncer Blueprint
+73008000000,Capsuleer Outpost Blueprint
+74001000002,Standard Standup Small Missile Launcher Blueprint
+74002000002,Standard Standup Medium Missile Launcher Blueprint
+74003000002,Standard Standup Large Missile Launcher Blueprint
+74011000002,Standard Standup Stasis Webifier Blueprint
+74012000002,Standard Standup Warp Disruptor Blueprint
+74013000002,Standard Standup Energy Neutralizer Blueprint
+74021000002,Industry Service Center Blueprint
+77000000000,Structure Construction Parts Blueprint
+77000000001,Structure Hangar Array Blueprint
+77000000002,Structure Storage Bay Blueprint
+77000000003,Structure Laboratory Blueprint
+77000000004,Structure Factory Blueprint
+77000000005,Structure Repair Facility Blueprint
+77000000006,Structure Reprocessing Plant Blueprint
+77000000007,Structure Docking Bay Blueprint
+77000000008,Structure Market Network Blueprint
+77000000009,Structure Medical Center Blueprint
+77000000010,Structure Office Center Blueprint
+77000000011,Structure Mission Network Blueprint
+77000000012,Structure Electromagnetic Sensor Blueprint
+77000000013,Structure Acceleration Coils Blueprint
+77000000014,Structure Advertisement Nexus Blueprint
+80000300020,Impairor White blade SKIN(permanent)
+80000400020,Impairor Jagged SKIN(permanent)
+80000700030,Ibis Ghost Bird SKIN(permanent)
+80000800030,Ibis Marty Kraken SKIN(permanent)
+80001100040,Velator Edge of Edge SKIN(permanent)
+80001500050,Reaper Glory of Vakir SKIN(permanent)
+80001600050,Reaper Nefantar SKIN(permanent)
+80001700300,Venture Trainer Mining Masters Emblem SKIN(permanent)
+80001800300,Venture Trainer Wealth Explorer SKIN(permanent)
+80001800310,Venture Wealth Explorer SKIN(permanent)
+80001801440,Retriever Wealth Explorer SKIN(permanent)
+80001802180,Procurer Wealth Explorer SKIN(permanent)
+80001802590,Covetor Wealth Explorer SKIN(permanent)
+80002000440,Dragoon Trainer Alien Hunter SKIN(permanent)
+80002000650,Omen Alien Hunter SKIN(permanent)
+80002000690,Omen Trainer Alien Hunter SKIN(permanent)
+80002000970,Maller Alien Hunter SKIN(permanent)
+80002001090,Maller Trainer Alien Hunter SKIN(permanent)
+80002100110,Merlin Alien Hunter SKIN(permanent)
+80002100230,Cormorant Alien Hunter SKIN(permanent)
+80002100450,Corax Trainer Alien Hunter SKIN(permanent)
+80002100660,Caracal Alien Hunter SKIN(permanent)
+80002100700,Caracal Trainer Alien Hunter SKIN(permanent)
+80002100990,Moa Alien Hunter SKIN(permanent)
+80002101100,Moa Trainer Alien Hunter SKIN(permanent)
+80002200120,Tristan Alien Hunter SKIN(permanent)
+80002200180,Incursus Alien Hunter SKIN(permanent)
+80002200460,Algos Trainer Alien Hunter SKIN(permanent)
+80002200670,Vexor Alien Hunter SKIN(permanent)
+80002200710,Vexor Trainer Alien Hunter SKIN(permanent)
+80002201110,Thorax Trainer Alien Hunter SKIN(permanent)
+80002300130,Rifter Alien Hunter SKIN(permanent)
+80002300470,Talwar Trainer Alien Hunter SKIN(permanent)
+80002300720,Stabber Trainer Alien Hunter SKIN(permanent)
+80002301120,Rupture Trainer Alien Hunter SKIN(permanent)
+80002400100,Tormentor Holy Throne SKIN(permanent)
+80002400440,Dragoon Trainer Holy Throne SKIN(permanent)
+80002400690,Omen Trainer Holy Throne SKIN(permanent)
+80002401090,Maller Trainer Holy Throne SKIN(permanent)
+80002500110,Merlin Holy Throne SKIN(permanent)
+80002500160,Kestrel Holy Throne SKIN(permanent)
+80002500230,Cormorant Holy Throne SKIN(permanent)
+80002500450,Corax Trainer Holy Throne SKIN(permanent)
+80002500700,Caracal Trainer Holy Throne SKIN(permanent)
+80002501100,Moa Trainer Holy Throne SKIN(permanent)
+80002600460,Algos Trainer Holy Throne SKIN(permanent)
+80002600710,Vexor Trainer Holy Throne SKIN(permanent)
+80002601110,Thorax Trainer Holy Throne SKIN(permanent)
+80002700130,Rifter Holy Throne SKIN(permanent)
+80002700470,Talwar Trainer Holy Throne SKIN(permanent)
+80002700720,Stabber Trainer Holy Throne SKIN(permanent)
+80002701120,Rupture Trainer Holy Throne SKIN(permanent)
+80500400670,Vexor Titanium silver SKIN(permanent)
+80500700070,Condor Ochre SKIN(permanent)
+80500700660,Caracal Ochre SKIN(permanent)
+80501400870,Xian-Yue Prototype Lunar Eclipse SKIN(permanent)
+80502000250,Thrasher Earth  SKIN(permanent)
+80502100370,Corax Gas  SKIN(permanent)
+80502100470,Talwar Trainer Gas  SKIN(permanent)
+80502101420,Cyclone Gas  SKIN(permanent)
+80502101670,Drake Gas  SKIN(permanent)
+80502200760,Manticore Fire  SKIN(permanent)
+80502202120,Scorpion Fire  SKIN(permanent)
+80502202160,Typhoon Fire  SKIN(permanent)
+80502300130,Rifter Water  SKIN(permanent)
